@@ -1,5 +1,5 @@
 { 
-  "name": "gss botwa",
+  "name": "Mr Asad",
   "version": "1.2.5",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "sid bhai.",
+  "author": "Nobita Tricks",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -106,11 +106,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gssbotwa/Gss_Botwa2.git"
+    "url": "git+https://github.com/"
   },
   "bugs": {
-    "url": "https://github.com/gssbotwa/Gss_Botwa2/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/gssbotwa/Gss_Botwa2#readme"
-}
+  "homepage": "https://github.com/"
  
