@@ -1,8 +1,8 @@
 { 
-  "name": "whatsapp-bot (GSS BOTWA V2.0)",
+  "name": "whatsapp-bot (Mr Asad V2.0)",
   "description": "Whatsapp bot.",
   "keywords": ["whatsapp bot"],
-  "repository": "https://github.com/gssbotwa/Gssbotwa2",
+  "repository": "https://github.com",
   "stack": "container",
   "env": {
     "AUTO_READ": {
